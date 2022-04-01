@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="input_username">Как к вам обращаться?</string>
+    <string name="input_age">Введите свой возраст</string>
+    <string name="input_height">Введите свой рост</string>
+    <string name="input_weight">Введите свой вес</string>
+    <string name="lifestyle">Оцените свой образ жизни:</string>
+    <string name="lifestyle_sedentary">Сидячий</string>
+    <string name="lifestyle_inactive">Малоподвижный</string>
+    <string name="lifestyle_active">Активный</string>
+    <string name="lifestyle_very_active">Очень активный</string>
+    <string name="_continue">Продолжить</string>
+    <string name="body_mass_index">Индекс массы тела:</string>
+    <string name="goal">Выберите цель:</string>
+    <string name="goal_weight_loss">Потеря веса</string>
+    <string name="goal_maintaining_current_weight">Сохранение нынешнего веса</string>
+    <string name="goal_weight_gain">Увеличение веса</string>
+</resources>
